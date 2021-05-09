@@ -1,4 +1,4 @@
-name: Generate REAME.md File
+name: Generate REAMED.md File
 
 on:
   repository_dispatch:
